@@ -24,6 +24,9 @@ Random News: Users can view random news articles from the app's database.
 
 Category-wise News: Users can filter news articles based on different categories such as technology, sports, Science,Health and entertainment, etc.
 
+![Screenshot (231)](https://github.com/karthikreddy552/triveousAssesment/assets/107270037/f7ff38c5-9dc2-42e8-b885-53278b329268)
+
+
 Responsive Design: The app is fully responsive and optimized for different screen sizes, including desktop, tablet, and mobile devices
 
 ![image](https://github.com/karthikreddy552/triveousAssesment/assets/107270037/742233a0-8846-4f04-a4af-11822f4c692b).
